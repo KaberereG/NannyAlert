@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "911522850012",
+    "firebase_url": "https://userauthentication-86396.firebaseio.com",
+    "project_id": "userauthentication-86396",
+    "storage_bucket": "userauthentication-86396.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911522850012:android:24059efb5ea0d269",
+        "android_client_info": {
+          "package_name": "com.example.waithera.nannyalert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911522850012-he0j81j1c172bu2n7df5t6fl8al77903.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.waithera.nannyalert",
+            "certificate_hash": "14a299da6c5eeb4fc6d623ecb0c24959f0018849"
+          }
+        },
+        {
+          "client_id": "911522850012-57hkk8d2n4loipvlkbj5e06na0n7hdcg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAek_o4gXNcQ129YBALuHnjpfUpxRlqmeg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911522850012-57hkk8d2n4loipvlkbj5e06na0n7hdcg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
